@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 jobs:
-  update-projects:
+  update-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout profile repository
@@ -25,27 +25,16 @@ jobs:
       - name: Update public repository list
         run: node scripts/update-projects.js
 
-      - name: Commit README changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: refresh profile projects"
-          file_pattern: README.md
-
-  generate-snake:
-    runs-on: ubuntu-latest
-    steps:
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shashwatmauryabtech23-27-pixel
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake assets
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Commit profile updates
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          build_dir: dist
-          branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: refresh profile data and contribution snake"
+          file_pattern: README.md assets/*.svg
