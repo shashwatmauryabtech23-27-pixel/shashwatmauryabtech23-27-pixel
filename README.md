@@ -46,16 +46,16 @@ This section is refreshed automatically every day from my public GitHub reposito
 <!-- REPOSITORIES:START -->
 | Repository | Description | Primary language | Stars |
 |---|---|---|---|
-| [**WebDev-GenAI**](https://github.com/shashwatmauryabtech23-27-pixel/WebDev-GenAI) | Full-stack Generative AI web development project | Multiple | ⭐ 0 |
-| [**Syncflow**](https://github.com/shashwatmauryabtech23-27-pixel/Syncflow) | Real-time collaboration platform | TypeScript | ⭐ 0 |
-| [**tic-tac-toe-arena**](https://github.com/shashwatmauryabtech23-27-pixel/tic-tac-toe-arena) | Network multiplayer Tic-Tac-Toe tournament app | JavaScript | ⭐ 0 |
-| [**AI-StudyHub**](https://github.com/shashwatmauryabtech23-27-pixel/AI-StudyHub) | AI-powered learning platform | JavaScript | ⭐ 0 |
-| [**CodSoft**](https://github.com/shashwatmauryabtech23-27-pixel/CodSoft) | Java programming internship projects | Java | ⭐ 0 |
-| [**Dice-Battle-Game**](https://github.com/shashwatmauryabtech23-27-pixel/Dice-Battle-Game) | Browser-based dice battle game | JavaScript | ⭐ 0 |
-| [**CODSOFT_TASK1**](https://github.com/shashwatmauryabtech23-27-pixel/CODSOFT_TASK1) | CodSoft internship task | Java | ⭐ 0 |
-| [**Wildlife-Explorer**](https://github.com/shashwatmauryabtech23-27-pixel/Wildlife-Explorer) | Wildlife exploration application | Multiple | ⭐ 0 |
-| [**Memory-Card-Matching-Game**](https://github.com/shashwatmauryabtech23-27-pixel/Memory-Card-Matching-Game) | Interactive memory card game | JavaScript | ⭐ 0 |
-| [**Bootcamp-FSD**](https://github.com/shashwatmauryabtech23-27-pixel/Bootcamp-FSD) | Full-stack development bootcamp work | Multiple | ⭐ 0 |
+| [**Bootcamp-FSD**](https://github.com/shashwatmauryabtech23-27-pixel/Bootcamp-FSD) | Explore the source code and project details. | JavaScript | ⭐ 0 |
+| [**WebDev-GenAI**](https://github.com/shashwatmauryabtech23-27-pixel/WebDev-GenAI) | Explore the source code and project details. | JavaScript | ⭐ 0 |
+| [**Syncflow**](https://github.com/shashwatmauryabtech23-27-pixel/Syncflow) | Explore the source code and project details. | TypeScript | ⭐ 0 |
+| [**tic-tac-toe-arena**](https://github.com/shashwatmauryabtech23-27-pixel/tic-tac-toe-arena) | Explore the source code and project details. | JavaScript | ⭐ 0 |
+| [**AI-StudyHub**](https://github.com/shashwatmauryabtech23-27-pixel/AI-StudyHub) | Explore the source code and project details. | JavaScript | ⭐ 0 |
+| [**CodSoft**](https://github.com/shashwatmauryabtech23-27-pixel/CodSoft) | Explore the source code and project details. | Java | ⭐ 0 |
+| [**Dice-Battle-Game**](https://github.com/shashwatmauryabtech23-27-pixel/Dice-Battle-Game) | Explore the source code and project details. | CSS | ⭐ 0 |
+| [**CODSOFT_TASK1**](https://github.com/shashwatmauryabtech23-27-pixel/CODSOFT_TASK1) | Explore the source code and project details. | Java | ⭐ 0 |
+| [**Wildlife-Explorer**](https://github.com/shashwatmauryabtech23-27-pixel/Wildlife-Explorer) | Explore the source code and project details. | HTML | ⭐ 0 |
+| [**Memory-Card-Matching-Game**](https://github.com/shashwatmauryabtech23-27-pixel/Memory-Card-Matching-Game) | Explore the source code and project details. | JavaScript | ⭐ 0 |
 <!-- REPOSITORIES:END -->
 
 <p align="center">
