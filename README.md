@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/shashwatmaurya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shashwatmauryabtech23-27@liet.in"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/SGM_InnoTech/"><img src="https://img.shields.io/badge/LeetCode-SGM__InnoTech-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/shashwatmaurya12"><img src="https://img.shields.io/badge/GeeksforGeeks-shashwatmaurya12-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/shashwatmaurya12?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-shashwatmaurya12-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
 ## 👨‍💻 About Me
@@ -38,6 +39,18 @@
   <a href="https://github.com/shashwatmauryabtech23-27-pixel/WebDev-GenAI"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatmauryabtech23-27-pixel&repo=WebDev-GenAI&theme=tokyonight&hide_border=true" alt="WebDev GenAI" /></a>
   <a href="https://github.com/shashwatmauryabtech23-27-pixel/tic-tac-toe-arena"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatmauryabtech23-27-pixel&repo=tic-tac-toe-arena&theme=tokyonight&hide_border=true" alt="Tic Tac Toe Arena" /></a>
 </p>
+
+<p align="center">
+  <a href="https://ai-studyhub-1-sln3.onrender.com"><img src="https://img.shields.io/badge/AI%20StudyHub-Live%20Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="AI StudyHub live demo" /></a>
+  <a href="https://tic-tac-toe-arena-1p6j.onrender.com"><img src="https://img.shields.io/badge/Tic--Tac--Toe-Live%20Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Tic Tac Toe Arena live demo" /></a>
+</p>
+
+## 🏅 Certifications & Achievements
+
+- **Database Management System Part - 2** - successfully completed on April 21, 2026
+- **CodSoft Java Programming Internship** - completed practical Java development projects
+- **Google Cloud Arcade** - hands-on cloud labs and skill development
+- **Tata Data Visualisation (Forage)** - completed virtual experience program
 
 ## 📦 All Public Projects
 
