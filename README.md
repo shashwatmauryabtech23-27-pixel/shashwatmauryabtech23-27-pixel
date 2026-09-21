@@ -36,12 +36,13 @@
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
 | **AI StudyHub** | AI-powered learning platform with authentication, study tools and an AI tutor | React, Tailwind CSS, Node.js, Express, MongoDB, Gemini AI | [Source Code](https://github.com/shashwatmauryabtech23-27-pixel/AI-StudyHub) · [Live Demo](https://ai-studyhub-1-sln3.onrender.com) |
-| **Syncflow** | Real-time collaboration platform with rooms, chat, video calls and a collaborative code editor | React, TypeScript, Node.js, Socket.IO, MongoDB, Firebase | [Source Code](https://github.com/shashwatmauryabtech23-27-pixel/Syncflow) |
+| **Syncflow** | Real-time collaboration platform with rooms, chat, video calls and a collaborative code editor | React, TypeScript, Node.js, Socket.IO, MongoDB, Firebase | [Source Code](https://github.com/shashwatmauryabtech23-27-pixel/Syncflow) · [Live Demo](https://syncflow-by-shashwat.netlify.app/) |
 | **WebDev GenAI** | AI-assisted interview and resume preparation application | React, Node.js, Express, MongoDB, Gemini AI | [Source Code](https://github.com/shashwatmauryabtech23-27-pixel/WebDev-GenAI) |
 | **Tic-Tac-Toe Arena** | Multiplayer network tournament game with real-time gameplay and persistent results | JavaScript, Express, Socket.IO, MongoDB | [Source Code](https://github.com/shashwatmauryabtech23-27-pixel/tic-tac-toe-arena) · [Live Demo](https://tic-tac-toe-arena-1p6j.onrender.com) |
 
 <p align="center">
   <a href="https://ai-studyhub-1-sln3.onrender.com"><img src="https://img.shields.io/badge/AI%20StudyHub-Live%20Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="AI StudyHub live demo" /></a>
+  <a href="https://syncflow-by-shashwat.netlify.app/"><img src="https://img.shields.io/badge/Syncflow-Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Syncflow live demo" /></a>
   <a href="https://tic-tac-toe-arena-1p6j.onrender.com"><img src="https://img.shields.io/badge/Tic--Tac--Toe-Live%20Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Tic Tac Toe Arena live demo" /></a>
 </p>
 
