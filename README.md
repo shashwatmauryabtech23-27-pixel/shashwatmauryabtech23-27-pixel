@@ -78,20 +78,16 @@ This section is refreshed automatically every day from my public GitHub reposito
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shashwatmauryabtech23-27-pixel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatmauryabtech23-27-pixel&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most-used languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashwatmauryabtech23-27-pixel&theme=tokyonight" alt="GitHub statistics" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashwatmauryabtech23-27-pixel&theme=tokyonight" alt="Repositories per language" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashwatmauryabtech23-27-pixel&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shashwatmauryabtech23-27-pixel&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatmauryabtech23-27-pixel&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashwatmauryabtech23-27-pixel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" />
 </p>
 
 ## 🧩 Coding Activity
@@ -106,9 +102,9 @@ This section is refreshed automatically every day from my public GitHub reposito
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashwatmauryabtech23-27-pixel/shashwatmauryabtech23-27-pixel/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashwatmauryabtech23-27-pixel/shashwatmauryabtech23-27-pixel/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shashwatmauryabtech23-27-pixel/shashwatmauryabtech23-27-pixel/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashwatmauryabtech23-27-pixel/shashwatmauryabtech23-27-pixel/main/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashwatmauryabtech23-27-pixel/shashwatmauryabtech23-27-pixel/main/assets/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shashwatmauryabtech23-27-pixel/shashwatmauryabtech23-27-pixel/main/assets/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
