@@ -33,12 +33,12 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/shashwatmauryabtech23-27-pixel/AI-StudyHub"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatmauryabtech23-27-pixel&repo=AI-StudyHub&theme=tokyonight&hide_border=true" alt="AI StudyHub" /></a>
-  <a href="https://github.com/shashwatmauryabtech23-27-pixel/Syncflow"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatmauryabtech23-27-pixel&repo=Syncflow&theme=tokyonight&hide_border=true" alt="Syncflow" /></a>
-  <a href="https://github.com/shashwatmauryabtech23-27-pixel/WebDev-GenAI"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatmauryabtech23-27-pixel&repo=WebDev-GenAI&theme=tokyonight&hide_border=true" alt="WebDev GenAI" /></a>
-  <a href="https://github.com/shashwatmauryabtech23-27-pixel/tic-tac-toe-arena"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatmauryabtech23-27-pixel&repo=tic-tac-toe-arena&theme=tokyonight&hide_border=true" alt="Tic Tac Toe Arena" /></a>
-</p>
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **AI StudyHub** | AI-powered learning platform with authentication, study tools and an AI tutor | React, Tailwind CSS, Node.js, Express, MongoDB, Gemini AI | [Source Code](https://github.com/shashwatmauryabtech23-27-pixel/AI-StudyHub) · [Live Demo](https://ai-studyhub-1-sln3.onrender.com) |
+| **Syncflow** | Real-time collaboration platform with rooms, chat, video calls and a collaborative code editor | React, TypeScript, Node.js, Socket.IO, MongoDB, Firebase | [Source Code](https://github.com/shashwatmauryabtech23-27-pixel/Syncflow) |
+| **WebDev GenAI** | AI-assisted interview and resume preparation application | React, Node.js, Express, MongoDB, Gemini AI | [Source Code](https://github.com/shashwatmauryabtech23-27-pixel/WebDev-GenAI) |
+| **Tic-Tac-Toe Arena** | Multiplayer network tournament game with real-time gameplay and persistent results | JavaScript, Express, Socket.IO, MongoDB | [Source Code](https://github.com/shashwatmauryabtech23-27-pixel/tic-tac-toe-arena) · [Live Demo](https://tic-tac-toe-arena-1p6j.onrender.com) |
 
 <p align="center">
   <a href="https://ai-studyhub-1-sln3.onrender.com"><img src="https://img.shields.io/badge/AI%20StudyHub-Live%20Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="AI StudyHub live demo" /></a>
