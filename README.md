@@ -60,8 +60,8 @@ This section is refreshed automatically every day from my public GitHub reposito
 <!-- REPOSITORIES:START -->
 | Repository | Description | Primary language | Stars |
 |---|---|---|---|
-| [**WebDev-GenAI**](https://github.com/shashwatmauryabtech23-27-pixel/WebDev-GenAI) | Explore the source code and project details. | JavaScript | ⭐ 0 |
 | [**Bootcamp-FSD**](https://github.com/shashwatmauryabtech23-27-pixel/Bootcamp-FSD) | Explore the source code and project details. | JavaScript | ⭐ 0 |
+| [**WebDev-GenAI**](https://github.com/shashwatmauryabtech23-27-pixel/WebDev-GenAI) | Explore the source code and project details. | JavaScript | ⭐ 0 |
 | [**Syncflow**](https://github.com/shashwatmauryabtech23-27-pixel/Syncflow) | Explore the source code and project details. | TypeScript | ⭐ 0 |
 | [**tic-tac-toe-arena**](https://github.com/shashwatmauryabtech23-27-pixel/tic-tac-toe-arena) | Explore the source code and project details. | JavaScript | ⭐ 0 |
 | [**AI-StudyHub**](https://github.com/shashwatmauryabtech23-27-pixel/AI-StudyHub) | Explore the source code and project details. | JavaScript | ⭐ 0 |
